@@ -10,7 +10,7 @@ namespace Steffan2
     {
         public static string SteffanMethod()
         {
-            /// some
+            /// some 2
             return "Steffan";
         }
     }
