@@ -8,6 +8,6 @@ namespace Liviu
 {
     public class Liviu
     {
-        //de la stefan =
+        //de la stefan = 2
     }
 }
