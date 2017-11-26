@@ -10,6 +10,7 @@ namespace Client
     {
         static void Main(string[] args)
         {
+            //added by Steffan
             Console.WriteLine("Hey this is a test. Press any key to continue ...");
             Console.ReadKey();
         }
