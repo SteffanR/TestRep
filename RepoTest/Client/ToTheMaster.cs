@@ -8,7 +8,7 @@ namespace Client
 {
     class ToTheMaster
     {
-        //aded by liviu
+        //aded by liviSTe
         //added bu Sterfan
     }
 }
