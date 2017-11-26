@@ -10,8 +10,7 @@ namespace Client
     {
         static void Main(string[] args)
         {
-//lll
-//for LIVIUS
+            //liviu added
             Console.WriteLine("Hey this is a test. Press any key to continue ...");
             Console.ReadKey();
         }
